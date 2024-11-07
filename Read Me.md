@@ -1,5 +1,4 @@
-
-                                                                              Portuguese Version
+                                                        Portuguese Version
 
 👋 Olá, me chamo Guilherme Soares (@UmbraMoon)
 ✨ Sou estudante de Engenharia de Software e um pequeno aspirador no mundo tecnologia. Atuamente estou no 4º semestre do curso e em busca do meu primeiro estágio na área. 
@@ -23,8 +22,8 @@ O que você pode esperar de mim
       
 🌙 Curiosidade | O nome "UmbraMoon" significa a Sombra da Lua – afinal, considero aqui como uma sombra, que pode mostrar parte de meu potencial.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                English Version
+-----------------------------------------------------------------------------------------------------------------------------------------
+                                                        English Version
 
 👋 Hi, I'm Guilherme Soares (@UmbraMoon)
 ✨ I'm a Software Engineering student and a technology enthusiast eager to make a difference. Currently in my 4th semester, I'm actively seeking my first internship in the field. 
